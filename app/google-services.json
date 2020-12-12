@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "536725593456",
+    "project_id": "unidad4-fb644",
+    "storage_bucket": "unidad4-fb644.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536725593456:android:a20f3024a855ec2fba03b5",
+        "android_client_info": {
+          "package_name": "mx.edu.utng.firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536725593456-34r18cfg1fqqh508375649alo2kecdvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.utng.firebasechat",
+            "certificate_hash": "449fb49e7c41e3749c9f269b9e0a362185288eb1"
+          }
+        },
+        {
+          "client_id": "536725593456-jn9f4rr615hbcm40162k558cd7b9p361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHsBDBNvCBFlSAwY6TGHB7lYFZ3fKYoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536725593456-jn9f4rr615hbcm40162k558cd7b9p361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
