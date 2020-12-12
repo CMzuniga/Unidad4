@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FireBaseChat</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="receptor">RECEPTOR</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="ver_usuarios">Ver usuarios</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="registrar">Registrar</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="repetir_contrase_a">Repetir contraseña</string>
+    <string name="correo">Correo</string>
+    <string name="nombre">Nombre</string>
+    <string name="cambiar_foto">Click para cambiar tu foto de perfil</string>
+</resources>
